@@ -1,4 +1,6 @@
-# What the Splash!
+# What the Splash! with Redux Toolkit
+
+**This is a modified version of the tutorial that uses Redux Toolkit.**
 
 [Checkout the video series here](https://www.youtube.com/playlist?list=PLMV09mSPNaQlWvqEwF6TfHM-CVM6lXv39)
 
